@@ -1,0 +1,12 @@
+.brd_crm_color {
+    margin: 20px!important;
+    margin-bottom: 0!important;
+}
+
+.brd_crm_color .brd_crm_link {
+    cursor: pointer!important;
+}
+
+.ctlg_wndw{
+    overflow: scroll;
+  }
