@@ -23,7 +23,7 @@ const navigation = (props) => {
     return (
         <div>
             <Navbar className = {navstyle.navcolor}>
-                <Navbar.Brand href="/" className = {navstyle.brandColor}>Rental Management System</Navbar.Brand>
+                <Navbar.Brand href="/rental-management" className = {navstyle.brandColor}>Rental Management System</Navbar.Brand>
                 <Navbar.Toggle />
                 <Navbar.Collapse className="justify-content-end">
                     <Navbar.Text>
